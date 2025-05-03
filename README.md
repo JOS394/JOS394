@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre mí
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 👨‍💻 Desarrollador Full Stack apasionado por construir soluciones innovadoras
 - 🌱 Actualmente trabajando con **React, Vue, Angular, Laravel, Node.js, .NET**
@@ -14,6 +14,9 @@
 - 💡 Siempre aprendiendo y explorando nuevas herramientas
 - 🤝 Buscando colaborar en proyectos desafiantes
 - ⚡ Dato curioso: Me encanta resolver problemas complejos con código elegante
+
+
+
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -75,39 +78,6 @@
     <img src="https://codeium.com/profile/disastrously-glistening-malamute-07739/card.png" alt="Codeium Profile" width="600"/>
   </a>
 </div>
-
-## 🌐 Conéctate conmigo
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
-
-## 💻 Proyectos Destacados
-
-<div align="center">
-<a href="https://github.com/JOS394/your-repo-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JOS394&repo=your-repo-1&theme=radical" />
-</a>
-<a href="https://github.com/JOS394/your-repo-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JOS394&repo=your-repo-2&theme=radical" />
-</a>
-</div>
-
-## 📚 Últimos Posts del Blog
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<div align="center">
-  
-### 👀 Visitantes
-
-![Visitor Count](https://profile-counter.glitch.me/JOS394/count.svg)
 
 ### 💭 Frase del día
 
