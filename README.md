@@ -15,15 +15,15 @@ You can click the Preview link to take a look at your changes.
 
 ## Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JOS394&show_icons=true&theme=radical)
 
 ## Lenguajes más usados
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JOS394&layout=compact&theme=radical)
 
 ## Racha de contribuciones
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JOS394&theme=radical)
 profile of codium :
 
 https://codeium.com/profile/disastrously-glistening-malamute-07739
