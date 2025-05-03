@@ -19,6 +19,8 @@ You can click the Preview link to take a look at your changes.
 ## Racha de contribuciones
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JOS394&theme=radical)
-profile of codium :
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JOS394&theme=react-dark)
+
+profile of codium :
 https://codeium.com/profile/disastrously-glistening-malamute-07739
