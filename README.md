@@ -1,57 +1,55 @@
 # ¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Soy @JOS394
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+%7C+Vue+%7C+Angular+%7C+Laravel+%7C+Node.js+%7C+.NET;Always+learning+new+technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Golang+%7C+Python+%7C+Node.js;React+%7C+Vue+%7C+Angular;Always+learning+new+technologies" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre mí
 
 <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 👨‍💻 Desarrollador Full Stack apasionado por construir soluciones innovadoras
-- 🌱 Actualmente trabajando con **React-Vue-Angular, Laravel, Node.js, Golang**
-- 👀 Interesado en el mundo del desarrollo y las nuevas tecnologías
-- 💡 Siempre aprendiendo y explorando nuevas herramientas
-- 🤝 Buscando colaborar en proyectos desafiantes
-- ⚡ Dato curioso: Me encanta resolver problemas complejos con código elegante
+- 👨‍💻 Desarrollador Full Stack apasionado por construir soluciones innovadoras.
+- 🌱 Actualmente trabajando con **Golang, Python y ecosistemas JS/TS**.
+- 👀 Enfocado en escalabilidad con **Cloudflare** y **Supabase**.
+- 💡 Siempre aprendiendo y explorando nuevas herramientas.
+- 🤝 Buscando colaborar en proyectos desafiantes.
+- ⚡ Dato curioso: Me encanta resolver problemas complejos con código elegante.
 
-
-
+---
 
 ## 🛠️ Tecnologías y Herramientas
 
 <div align="center">
 
-### Frontend
+### 💻 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend
+### ⚙️ Backend & Languages
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+### 🗄️ Database & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Tools
+### 🔧 DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 </div>
+
+---
 
 ## 📊 Estadísticas de GitHub
 
@@ -61,7 +59,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JOS394&theme=radical" alt="JOS394" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JOS394&theme=radical" alt="JOS394 Streak" />
 </div>
 
 ## 📈 Actividad Reciente
@@ -70,24 +68,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JOS394&theme=react-dark&hide_border=true" width="100%"/>
 </div>
 
-## 🏆 Logros en GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JOS394&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" alt="Trophy" />
-</div>
-
-## 🎯 Perfil de Codeium
-
-<div align="center">
-  <a href="https://codeium.com/profile/disastrously-glistening-malamute-07739">
-    <img src="https://codeium.com/profile/disastrously-glistening-malamute-07739/card.png" alt="Codeium Profile" width="600"/>
-  </a>
-</div>
+---
 
 ### 💭 Frase del día
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</div>
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-⭐️ From [JOS394](https://github.com/JOS394)
-
+<div align="right">
+  ⭐️ From <a href="https://github.com/JOS394">JOS394</a>
 </div>
