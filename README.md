@@ -8,12 +8,12 @@
 
 <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 👨‍💻 Desarrollador Full Stack enfocado en el diseño de **arquitecturas escalables y mantenibles**.
-- 🛠️ Especialista en construir soluciones robustas utilizando  **Ecosistema Moderno de JavaScript**/**Laravel,Golang, Python y Node.js**.
-- 📈 Aprovecho el ecosistema de **Cloudflare** y **Supabase** para garantizar alta disponibilidad y rendimiento.
-- 💡 Mi prioridad es escribir código elegante que facilite el crecimiento a largo plazo de los proyectos.
-- 🤝 Buscando colaborar en sistemas complejos que requieran soluciones técnicas sólidas.
-
+- 👨‍💻 **Full Stack Developer** con un enfoque estratégico en el diseño de arquitecturas preparadas para el crecimiento continuo.
+- 🛠️ Dominio técnico del **Ecosistema Moderno de JS**, integrando backends potentes y versátiles con **Laravel, Go, Python y Node.js**.
+- ☁️ Experiencia activa en el desarrollo de **soluciones SaaS**, optimizando procesos críticos y escalabilidad de producto.
+- 📈 Implementación avanzada de **Cloudflare y Supabase** para garantizar infraestructuras de alta resiliencia y máximo rendimiento.
+- 💡 Fiel creyente de que el **código de calidad (Clean Code)** es la única base posible para un proyecto exitoso y sostenible.
+- 🤝 En busca de colaborar en sistemas de alta complejidad donde aportar soluciones de ingeniería sólidas.
 ---
 
 ## 🛠️ Stack Tecnológico
