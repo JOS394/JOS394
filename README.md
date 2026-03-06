@@ -1,4 +1,4 @@
-# ¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Soy @JOS394
+# @JOS394 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <div align="center">
 
@@ -16,11 +16,8 @@
 
 ## $ whoami
 
-Soy José, desarrollador full stack basado en tecnologias web modernas con **4+ años** construyendo sistemas que escalan.
-Actualmente resido en **El Salvador** Me especializo en el ecosistema JavaScript del frontend y en backends robustos con Laravel, Go, Python.
-Tengo un stack principal que conozco en profundidad y tecnologías que estoy incorporando activamente con intención.
+Me presento, soy José España, desarrollador full stack basado en **El Salvador** con **4+ años** construyendo sistemas que escalan. Me especializo en el ecosistema JavaScript moderno por parte de frontend y en backends robustos con Laravel y Go como tambien funcionalidades de inteligencia artificila y . Tengo un stack principal que conozco en profundidad y tecnologías que estoy incorporando activamente con intención.
 
----
 
 ## 🛠️ Stack real, sin adornos
 
