@@ -67,23 +67,6 @@ Tengo un stack principal que conozco en profundidad y tecnologías que estoy inc
 
 ---
 
-## 🚀 Lo que estoy construyendo
-
-### Aplicaciones personales
-> SaaS de gestión medica.
-
-Stack: `React` `Supabase` `Cloudflare Pages` `PostgreSQL` `Edge Functions`
-
-- Multi-tenant con RLS a nivel de base de datos
-- Integración con pasarela de pago
-- Sistema de suscripciones con trial automático en registro
-- Currently en beta con primeros usuarios reales
-
----
-
-
----
-
 ## 🚀 Lo que estoy haciendo
 
 Trabajo en **proyectos en entornos reales de producción** — desde ERPs que sirven a cientos de empresas, hasta productos SaaS en fase de lanzamiento. No escribo código de prueba: lo que construyo lo usan personas reales todos los días.
