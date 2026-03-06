@@ -10,7 +10,8 @@
 
 - 👨‍💻 Desarrollador Full Stack apasionado por construir soluciones innovadoras.
 - 🌱 Actualmente trabajando con **Golang, Python y ecosistemas JS/TS**.
-- 👀 Enfocado en escalabilidad con **Cloudflare** y **Supabase**.
+- 👀 Enfocado en escalabilidad
+- Ocupando activamente **Cloudflare** y **Supabase**.
 - 💡 Siempre aprendiendo y explorando nuevas herramientas.
 - 🤝 Buscando colaborar en proyectos desafiantes.
 - ⚡ Dato curioso: Me encanta resolver problemas complejos con código elegante.
