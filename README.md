@@ -47,15 +47,30 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Mi Ecosistema de Trabajo
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JOS394&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOS394&layout=compact&langs_count=8&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JOS394&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JOS394&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JOS394&theme=radical&utcOffset=-6" width="32%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JOS394&theme=radical" alt="JOS394 Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JOS394&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JOS394&theme=radical" height="180em" />
+</div>
+
+<div align="center">
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JOS394&theme=react-dark&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 🔝 Proyectos Destacados
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JOS394&repo=NOMBRE_DE_TU_REPO&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JOS394&repo=OTRO_REPO&theme=radical" />
 </div>
 
 ---
@@ -63,6 +78,11 @@
 ### 💭 Pensamiento del día
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</div>
+
+<div align="center">
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=JOS394&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" />
 </div>
 
 <div align="right">
