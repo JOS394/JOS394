@@ -16,11 +16,9 @@
 
 ## $ whoami
 
-Soy José, desarrollador full stack basado en **El Salvador** con **4+ años** construyendo sistemas que escalan. Me especializo en el ecosistema JavaScript del frontend y en backends robustos con Laravel y Go.
-
-Actualmente construyendo **[clinikApp](https://github.com/JOS394)** — un SaaS de gestión de consultorios médicos para clínicas privadas en El Salvador, hecho con React, Supabase y Cloudflare Pages.
-
-No soy un generalista. Tengo un stack principal que conozco en profundidad y tecnologías que estoy incorporando activamente con intención.
+Soy José, desarrollador full stack basado en tecnologias web modernas con **4+ años** construyendo sistemas que escalan.
+Actualmente resido en **El Salvador** Me especializo en el ecosistema JavaScript del frontend y en backends robustos con Laravel, Go, Python.
+Tengo un stack principal que conozco en profundidad y tecnologías que estoy incorporando activamente con intención.
 
 ---
 
@@ -71,15 +69,26 @@ No soy un generalista. Tengo un stack principal que conozco en profundidad y tec
 
 ## 🚀 Lo que estoy construyendo
 
-### clinikApp
-> SaaS de gestión para consultorios médicos privados en El Salvador.
+### Aplicaciones personales
+> SaaS de gestión medica.
 
 Stack: `React` `Supabase` `Cloudflare Pages` `PostgreSQL` `Edge Functions`
 
 - Multi-tenant con RLS a nivel de base de datos
-- Integración con pasarela de pago **Wompi El Salvador**
+- Integración con pasarela de pago
 - Sistema de suscripciones con trial automático en registro
 - Currently en beta con primeros usuarios reales
+
+---
+
+
+---
+
+## 🚀 Lo que estoy haciendo
+
+Trabajo en **proyectos en entornos reales de producción** — desde ERPs que sirven a cientos de empresas, hasta productos SaaS en fase de lanzamiento. No escribo código de prueba: lo que construyo lo usan personas reales todos los días.
+
+Me muevo entre el rol de desarrollador en equipos establecidos, como desarrollador de productos y como consultor de servicios tecnologicos, en mis tiempos libres me muevo como founder técnico en mis propios productos, lo que me obliga a pensar tanto en la calidad del código como en el impacto de negocio.
 
 ---
 
@@ -100,7 +109,7 @@ Stack: `React` `Supabase` `Cloudflare Pages` `PostgreSQL` `Edge Functions`
 
 ## 📬 Contacto
 
-Si estás trabajando en algo interesante o quieres hablar sobre arquitectura, SaaS o desarrollo en Latinoamérica, escríbeme.
+Si estás trabajando en algo interesante o quieres hablar sobre arquitectura, SaaS o desarrollo escalable, escríbeme.
 
 <div align="center">
 
