@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 👨‍💻 Desarrollador Full Stack apasionado por construir soluciones innovadoras
-- 🌱 Actualmente trabajando con **React, Vue, Angular, Laravel, Node.js, .NET**
+- 🌱 Actualmente trabajando con **React-Vue-Angular, Laravel, Node.js, Golang**
 - 👀 Interesado en el mundo del desarrollo y las nuevas tecnologías
 - 💡 Siempre aprendiendo y explorando nuevas herramientas
 - 🤝 Buscando colaborar en proyectos desafiantes
