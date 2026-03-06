@@ -1,53 +1,87 @@
-# ¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Soy @JOS394
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Scalable+%26+Maintainable+Solutions;Golang+%7C+Python+%7C+Node.js;Always+learning+new+technologies" alt="Typing SVG" />
+
+```
+╔═══════════════════════════════════════════════════════════╗
+║         Building software that works in production.       ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+El+Salvador;Angular+%7C+Vue+%7C+Laravel+%7C+Go;Building+SaaS+that+solves+real+problems;4%2B+years+shipping+production+code" alt="Typing SVG" />
+
 </div>
 
-## 🚀 Sobre mí
-
-<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 👨‍💻 **Full Stack Developer** con un enfoque estratégico en el diseño de arquitecturas preparadas para el crecimiento continuo.
-- 🛠️ Dominio técnico del **Ecosistema Moderno de JS**, integrando backends potentes y versátiles con **Laravel, Go, Python y Node.js**.
-- ☁️ Experiencia activa en el desarrollo de **soluciones SaaS**, optimizando procesos críticos y escalabilidad de producto.
-- 📈 Implementación avanzada de **Cloudflare y Supabase** para garantizar infraestructuras de alta resiliencia y máximo rendimiento.
-- 💡 Fiel creyente de que el **código de calidad (Clean Code)** es la única base posible para un proyecto exitoso y sostenible.
-- 🤝 En busca de colaborar en sistemas de alta complejidad donde aportar soluciones de ingeniería sólidas.
 ---
 
-## 🛠️ Stack Tecnológico
+## $ whoami
 
-<div align="center">
+Soy José, desarrollador full stack basado en **El Salvador** con **4+ años** construyendo sistemas que escalan. Me especializo en el ecosistema JavaScript del frontend y en backends robustos con Laravel y Go.
 
-### 🏗️ Infraestructura Escalable
+Actualmente construyendo **[clinikApp](https://github.com/JOS394)** — un SaaS de gestión de consultorios médicos para clínicas privadas en El Salvador, hecho con React, Supabase y Cloudflare Pages.
+
+No soy un generalista. Tengo un stack principal que conozco en profundidad y tecnologías que estoy incorporando activamente con intención.
+
+---
+
+## 🛠️ Stack real, sin adornos
+
+### 💪 Producción activa — aquí vivo
+<div>
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+### 🌱 Incorporando activamente
+<div>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+</div>
+
+### ☁️ Infraestructura
+<div>
+
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### ⚙️ Backend & Performance
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-### 💻 Frontend & Interface
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+</div>
 
 ### 🔧 Workflow
+<div>
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 Mi Ecosistema de Trabajo
+## 🚀 Lo que estoy construyendo
+
+### clinikApp
+> SaaS de gestión para consultorios médicos privados en El Salvador.
+
+Stack: `React` `Supabase` `Cloudflare Pages` `PostgreSQL` `Edge Functions`
+
+- Multi-tenant con RLS a nivel de base de datos
+- Integración con pasarela de pago **Wompi El Salvador**
+- Sistema de suscripciones con trial automático en registro
+- Currently en beta con primeros usuarios reales
+
+---
+
+## 📊 Stats
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JOS394&theme=radical" width="32%" />
@@ -60,31 +94,23 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JOS394&theme=radical" height="180em" />
 </div>
 
+---
+
+## 📬 Contacto
+
+Si estás trabajando en algo interesante o quieres hablar sobre arquitectura, SaaS o desarrollo en Latinoamérica, escríbeme.
+
 <div align="center">
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JOS394&theme=react-dark&hide_border=true" width="100%"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL)
+
 </div>
 
 ---
 
-## 🔝 Proyectos Destacados
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JOS394&repo=NOMBRE_DE_TU_REPO&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JOS394&repo=OTRO_REPO&theme=radical" />
-</div>
-
----
-
-### 💭 Pensamiento del día
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-</div>
-
-<div align="center">
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=JOS394&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" />
-</div>
-
-<div align="right">
-  ⭐️ From <a href="https://github.com/JOS394">JOS394</a>
+  <img src="https://komarev.com/ghpvc/?username=JOS394&color=00ADD8&style=for-the-badge&label=PROFILE+VIEWS" />
+  <br/><br/>
+  <sub>⭐️ From <a href="https://github.com/JOS394">JOS394</a> — El Salvador 🇸🇻</sub>
 </div>
